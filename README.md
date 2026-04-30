@@ -1,4 +1,4 @@
-# NetRouteX - Packet Forwarding Smiulator
+# NetRouteX - Packet Forwarding Smiulator #
 
 
 NetRouteX is a real-time network simulation tool that visualizes how routers forward packets using Longest Prefix Match (LPM).
