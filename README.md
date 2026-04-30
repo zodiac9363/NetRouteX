@@ -40,8 +40,8 @@ Best route selected using LPM
 Packet forwarding is animated step-by-step
 Final decision (FORWARDED / DROPPED) is displayed
 
-# Visual Representation
-!(netroute x.gif)
+
+![Visual Representation](netroute x.gif)
 
 # Example
 Destination IP	Result
