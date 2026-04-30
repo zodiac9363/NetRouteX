@@ -40,6 +40,9 @@ Best route selected using LPM
 Packet forwarding is animated step-by-step
 Final decision (FORWARDED / DROPPED) is displayed
 
+# Visual Representation
+https://github.com/zodiac9363/NetRouteX/blob/main/netroute%20x.gif
+
 # Example
 Destination IP	Result
 10.0.0.25	Matches 10.0.0.0/24 (Best Route)
