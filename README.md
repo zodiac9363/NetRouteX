@@ -41,9 +41,7 @@ Packet forwarding is animated step-by-step
 Final decision (FORWARDED / DROPPED) is displayed
 
 
-## Visual Demo
-
-![Packet Flow Simulation](assets/netroutex.gif)
+![Visual Demo](https://raw.githubusercontent.com/zodiac9363/NetRouteX/main/netroutex.gif)
 
 # Example
 Destination IP	Result
