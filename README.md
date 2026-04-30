@@ -24,7 +24,7 @@ It transforms complex routing logic into an interactive and intuitive experience
   * Pandas
   * ipaddress
 # Installation
-git clone https://github.com/zodiac9363/NetRouteX---Visualizing-Routing-Intelligence-in-Real-Time
+git clone https://github.com/zodiac9363/NetRouteX
 cd netroutex
 pip install -r requirements.txt
 
