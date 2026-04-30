@@ -41,7 +41,7 @@ Packet forwarding is animated step-by-step
 Final decision (FORWARDED / DROPPED) is displayed
 
 # Visual Representation
-(netroute%20x.gif)
+!(netroute%20x.gif)
 
 # Example
 Destination IP	Result
